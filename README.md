@@ -13,6 +13,6 @@ Hi there 👋🏻 :
 -💬 Ask me about `This project❓☞ mariantech99@gmail.com
 
 🔑[GITHUB] : https://github.com/MarianM00 </br>
-🔑[LinkedIn] : https://www.linkedin.com/in/marin-marian-677859197/
-🔑[Youtube] : https://www.youtube.com/channel/UC53o-_jzsGADNsz6q9SATKA?view_as=subscriber
+🔑[LinkedIn] : https://www.linkedin.com/in/marin-marian-677859197/ </br>
+🔑[Youtube] : https://www.youtube.com/channel/UC53o-_jzsGADNsz6q9SATKA?view_as=subscriber </br>
 
