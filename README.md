@@ -4,13 +4,13 @@
 
 Hi there 👋🏻 :
 
-
--⚡ Fun fact: I drink more coffee than water.
--👩🏻 Pronouns: he/him
--👀 Want to learn how ❓ To control humans 👀
--🔭 Currently Studing : University of Pitesti [ Informatics ] 
--🌱 Learning Everything.
--💬 Ask me about `This project❓☞ mariantech99@gmail.com
+ 
+-⚡ Fun fact: I drink more coffee than water. </br>
+-👩🏻 Pronouns: he/him </br> 
+-👀 Want to learn how ❓ To control humans 👀 </br>
+-🔭 Currently Studing : University of Pitesti [ Informatics ] </br> 
+-🌱 Learning Everything. </br>
+-💬 Ask me about `This project❓☞ mariantech99@gmail.com </br>
 
 🔑[GITHUB] : https://github.com/MarianM00 </br>
 🔑[LinkedIn] : https://www.linkedin.com/in/marin-marian-677859197/ </br>
